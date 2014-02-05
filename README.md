@@ -1,4 +1,3 @@
-bridges
-=======
+# Virginia Bridge Data
 
-Bridge data.
+Data obtained from [VDOT's bridge data website](http://www.virginiadot.org/info/bridge.asp).
